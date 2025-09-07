@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Michel Vieira 👋</h1>
 
-<!--
-**MichelVieira-Dev/MichelVieira-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor Web Full Stack com mais de 10 anos de experiência.<br />
+  Apaixonado por arquitetura de software, código limpo e boas práticas.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre Mim
+
+Sou um desenvolvedor web com mais de 10 anos de experiência em criação e manutenção de sistemas, tanto no back-end quanto no front-end. Já atuei em diversos projetos, utilizando tecnologias modernas e também lidando com sistemas legados.
+
+Tenho sólida experiência com:
+
+- Definição de arquitetura de software
+- Code Review
+- Desenvolvimento de novas features
+- Manutenção de sistemas existentes
+- Metodologias ágeis
+
+Atualmente, sou Tech Lead em uma fábrica de software, participando da evolução arquitetural dos sistemas e mentorando times.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 🖥️ Linguagens & Frameworks
+
+- **JavaScript / TypeScript**
+- **PHP / Laravel**
+- **Java / Spring Boot**
+- **Node.js / NestJS / Express**
+- **React**
+- **Dart / Flutter**
+- **Ionic**
+
+### 🧰 Ferramentas
+
+- Git / GitHub
+- Docker
+- Postman / Insomnia
+- Prisma ORM
+- ESLint / Prettier
+
+### ⚙️ Automação
+
+- Excel Avançado (VBA)
+
+---
+
+## 📚 Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+_Cursando - Universidade Cruzeiro do Sul_
+
+---
+
+## 🔗 Links
+
+- 📫 Email: [michel.nir@gmail.com](mailto:michel.nir@gmail.com)
+- 💼 Linkedin: [https://www.linkedin.com/in/michel-douglaslimavieira/](https://www.linkedin.com/in/michel-douglaslimavieira/)
+<!-- - 🧠 Projetos: Veja meus repositórios aqui no GitHub!
+
+---
+
+> 💡 Este repositório é uma vitrine do meu portfólio como desenvolvedor. Explore os projetos, veja os commits e sinta-se à vontade para entrar em contato!  -->
