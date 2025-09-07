@@ -30,10 +30,8 @@ Atualmente, sou Tech Lead em uma fábrica de software, participando da evoluçã
 - **JavaScript / TypeScript**
 - **PHP / Laravel**
 - **Java / Spring Boot**
-- **Node.js / NestJS / Express**
+- **NodeJs / NestJS / Express**
 - **React**
-- **Dart / Flutter**
-- **Ionic**
 
 ### 🧰 Ferramentas
 
